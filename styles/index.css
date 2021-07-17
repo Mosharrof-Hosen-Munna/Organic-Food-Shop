@@ -213,3 +213,28 @@
 	color: #6f6f6f;
 	display: inline-block;
 }
+/* footer styles start */
+.footer_about ul li {
+	font-size: 16px;
+	color: #1c1c1c;
+	line-height: 36px;
+	list-style: none;
+}
+.footer_list ul li {
+	font-size: 14px;
+	line-height: 32px;
+	list-style: none;
+}
+.footer_list ul li a {
+	color: #1c1c1c;
+}
+.footer_socials a {
+	color: black;
+	background: white;
+	transition: 0.3s ease-in-out;
+}
+.footer_socials a:hover {
+	background: #7fad39;
+	color: white;
+}
+/* footer styles end */
